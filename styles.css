@@ -33,7 +33,7 @@ nav a {
 }
 
 
-/* EXERCISE 5 */
+/* EXERCISE 5   */
 nav a:hover {
   text-decoration: underline;
   color: #ffffff;
